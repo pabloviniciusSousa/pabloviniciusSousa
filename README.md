@@ -11,8 +11,8 @@
 
 <p> Os meus outros perfis são:
  
- - Cientista de Dados e Machinelearning: https://github.com/PabloViniciusSS </p>
- - Front-End: https://github.com/PabloVSS</p>
+ <br> - Cientista de Dados e Machinelearning: https://github.com/PabloViniciusSS </p>
+<br> - Front-End: https://github.com/PabloVSS</p>
 
 <p align="left">I'm passionate about technology, looking to work in the field of Data Science, Machine Learning.
 I've been studying programming for more than 3 years, with several languages, but I never stuck to one subject, because everything caught my attention, but I realized that I needed to focus, to have a better understanding of the subject and to be a better professional, so I tried to get to know several areas and found in Data Sciences, Since then, I've been working exclusively in this area for about a year, with Python and the NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow and PyTorch libraries, I've already taken a Machine Learning course and I'm currently taking a Deep Lerning course at Coursera. Now, after some time learning the basics of this area, I'm also getting to know other languages that have this focus, as well as focusing on the scientific side too.</p>
