@@ -9,13 +9,12 @@
 
 <p align="left">Eu sou um apaixonado por tecnologias, em busca de trabalhar na área de desenvolvimento mobile ou sistemas ou Cientista de Dados, esse perfil foi criado com o objetivo de colocar os projetos de Mobile e BackEnd em java e Kotlin separados dos outros, estudei java e Kotlin por um bom tempo e estou vendo se consigo equilibrar meus estudos em Ciências de Dados com desenvolvimento mobile, e tenho total capacidade de resolver problemas nessas linguagens, atualmente estou estudando a área de Ciencia de Dados, mas, pretendo ir atualizando aos poucos em desenvolvimento mobile. Trabalho com suporte ao cliente, mas, nao é onde desejo continuar, o meu intersse é a programação ou ánalise de dados, por isso, resolve fazer essas divisões e ampliar a área de busca de um novo emprego, estou disponivel para fazer testes e mostra minha habilidade nessa linguagem e agradeço a todos que visitarem esse perfil.</p>
 
-<p> Os meus outros perfis são:
+<p> Os meus outros perfis são:</p>
  
- <br> - Cientista de Dados e Machinelearning: https://github.com/PabloViniciusSS </p>
-<br> - Front-End: https://github.com/PabloVSS</p>
+<br> - Cientista de Dados e Machinelearning: https://github.com/PabloViniciusSS
+<br> - Front-End: https://github.com/PabloVSS <br>
 
-<p align="left">I'm passionate about technology, looking to work in the field of Data Science, Machine Learning.
-I've been studying programming for more than 3 years, with several languages, but I never stuck to one subject, because everything caught my attention, but I realized that I needed to focus, to have a better understanding of the subject and to be a better professional, so I tried to get to know several areas and found in Data Sciences, Since then, I've been working exclusively in this area for about a year, with Python and the NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow and PyTorch libraries, I've already taken a Machine Learning course and I'm currently taking a Deep Lerning course at Coursera. Now, after some time learning the basics of this area, I'm also getting to know other languages that have this focus, as well as focusing on the scientific side too.</p>
+<p align="left">I am passionate about technologies, looking to work in the area of mobile development or systems or Data Scientist, this profile was created with the aim of placing the Mobile and BackEnd projects in java and Kotlin separate from the others, I studied java and Kotlin for a long time and I am seeing if I can balance my studies in Data Sciences with mobile development, and I have full capacity to solve problems in these languages, I am currently studying the area of Data Science, but, I intend to update little by little in mobile development. I work with customer support, but that's not where I want to continue, my interest is programming or data analysis, so I decided to make these divisions and broaden the search area for a new job, I am available to do tests and show my ability in this language and I thank everyone who visits this profile.</p>
 
 ###
 
