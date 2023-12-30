@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Data Science | Machine Learning | Deep Learning </h4>
+<h4 align="center">Mobile | Back End | Java | Kotlin </h4>
 
 ###
 
