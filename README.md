@@ -16,6 +16,8 @@
 
 <p align="left">I am passionate about technologies, looking to work in the area of mobile development or systems or Data Scientist, this profile was created with the aim of placing the Mobile and BackEnd projects in java and Kotlin separate from the others, I studied java and Kotlin for a long time and I am seeing if I can balance my studies in Data Sciences with mobile development, and I have full capacity to solve problems in these languages, I am currently studying the area of Data Science, but, I intend to update little by little in mobile development. I work with customer support, but that's not where I want to continue, my interest is programming or data analysis, so I decided to make these divisions and broaden the search area for a new job, I am available to do tests and show my ability in this language and I thank everyone who visits this profile.</p>
 
+My other profiles are:
+
 <br>- Data Scientist and Machinelearning: https://github.com/PabloViniciusSS
 <br>- Front-End: https://github.com/PabloVSS
 
