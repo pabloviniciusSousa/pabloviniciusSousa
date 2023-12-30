@@ -10,6 +10,7 @@
 <p align="left">Eu sou um apaixonado por tecnologias, em busca de trabalhar na área de desenvolvimento mobile ou sistemas ou Cientista de Dados, esse perfil foi criado com o objetivo de colocar os projetos de Mobile e BackEnd em java e Kotlin separados dos outros, estudei java e Kotlin por um bom tempo e estou vendo se consigo equilibrar meus estudos em Ciências de Dados com desenvolvimento mobile, e tenho total capacidade de resolver problemas nessas linguagens, atualmente estou estudando a área de Ciencia de Dados, mas, pretendo ir atualizando aos poucos em desenvolvimento mobile. Trabalho com suporte ao cliente, mas, nao é onde desejo continuar, o meu intersse é a programação ou ánalise de dados, por isso, resolve fazer essas divisões e ampliar a área de busca de um novo emprego, estou disponivel para fazer testes e mostra minha habilidade nessa linguagem e agradeço a todos que visitarem esse perfil.</p>
 
 <p> Os meus outros perfis são:
+ 
  - Cientista de Dados e Machinelearning: https://github.com/PabloViniciusSS </p>
  - Front-End: https://github.com/PabloVSS</p>
 
